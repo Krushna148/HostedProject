@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84312bf0.css",
+    "main.js": "/static/js/main.fcd6a786.js",
+    "static/media/selected.png": "/static/media/selected.45051a78c886d160b203.png",
+    "static/media/booked.png": "/static/media/booked.6023f4e5acad6229d59f.png",
+    "static/media/logo2.jpeg": "/static/media/logo2.01a38024c3a8e72c7bcd.jpeg",
+    "static/media/logo.png": "/static/media/logo.780342d313853856a85f.png",
+    "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/logo1.png": "/static/media/logo1.2b139e91090dd6a50a70.png",
+    "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "static/media/Bus location logo.png": "/static/media/Bus location logo.18c0b848eebddc0a5fad.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.84312bf0.css",
+    "static/js/main.fcd6a786.js"
+  ]
+}
